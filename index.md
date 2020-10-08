@@ -1,0 +1,1 @@
+-   [Getting a repo](./getting_repo.html)-   [Adding new file](./adding_newfile.html)-   [Initial set up](./config.html)-   [Showing logs](./showing_log.html)
