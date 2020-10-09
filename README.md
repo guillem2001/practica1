@@ -39,4 +39,10 @@
 
 # Tornant a la rama principal
 ![img](https://i.imgur.com/WODiLnX.png)
-#Pagina 45 de 60
+
+# Creem una nova branca a partir de un commit antic
+![img](https://i.imgur.com/MTSIWOF.png)
+##Quedara així
+![img](https://i.imgur.com/k9i4xy1.png)
+
+# Revertir un fitxer
