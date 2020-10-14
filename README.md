@@ -46,3 +46,14 @@
 ![img](https://i.imgur.com/k9i4xy1.png)
 
 # Revertir un fitxer
+![img](https://i.imgur.com/SbmOkim.png)
+
+# Revertir un commit
+![img](https://i.imgur.com/N7QE3ea.png)
+![img](https://i.imgur.com/uehlg8P.png)
+
+# Commit reset
+![img](https://i.imgur.com/Ee5KqxN.png)
+![img](https://i.imgur.com/rmrfh2i.png)
+
+
